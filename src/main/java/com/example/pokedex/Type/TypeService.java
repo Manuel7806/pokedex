@@ -2,7 +2,6 @@ package com.example.pokedex.Type;
 
 import org.springframework.stereotype.Service;
 
-import java.util.Optional;
 
 @Service
 public class TypeService {
